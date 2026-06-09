@@ -1,0 +1,16 @@
+{
+  "name": "Study Master Dashboard",
+  "short_name": "StudyMaster",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0f172a",
+  "theme_color": "#3b82f6",
+  "description": "Interactive Study Progress Tracker",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
